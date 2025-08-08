@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 06f1e7412f5d90947a1de1519fe3eb72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198697
+  packageName: 2D Castle Pack - tiles and props + Level Design Tools
+  packageVersion: 1.2
+  assetPath: Assets/Fallencake/FCTools/Tools/FCObjectPool/FCObjectPooler.cs
+  uploadId: 552719

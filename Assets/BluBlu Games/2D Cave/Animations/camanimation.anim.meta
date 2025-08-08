@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c2d7e2ef32da8a3478116c5b04fcc360
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278605
+  packageName: 2D Platformer Cave
+  packageVersion: 1.0
+  assetPath: Assets/BluBlu Games/2D Cave/Animations/camanimation.anim
+  uploadId: 665836

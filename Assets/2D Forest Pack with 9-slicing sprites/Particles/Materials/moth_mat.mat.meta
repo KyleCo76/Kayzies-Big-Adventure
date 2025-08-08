@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8f621e1a91b9d6547b0f592cb87ae29a
+timeCreated: 1509363763
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Particles/Materials/moth_mat.mat
+  uploadId: 229450

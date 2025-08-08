@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7618c14bbddca564e9f9cdc63b428a57
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278605
+  packageName: 2D Platformer Cave
+  packageVersion: 1.0
+  assetPath: Assets/BluBlu Games/2D Cave/Animations/fog2.anim
+  uploadId: 665836

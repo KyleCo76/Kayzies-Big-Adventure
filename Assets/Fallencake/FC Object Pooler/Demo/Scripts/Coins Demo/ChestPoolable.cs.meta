@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1ad36677dc8720944a5f72b967d1c0af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198697
+  packageName: 2D Castle Pack - tiles and props + Level Design Tools
+  packageVersion: 1.2
+  assetPath: Assets/Fallencake/FC Object Pooler/Demo/Scripts/Coins Demo/ChestPoolable.cs
+  uploadId: 552719

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 57415b0941a476145ab1864f5df69cde
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198697
+  packageName: 2D Castle Pack - tiles and props + Level Design Tools
+  packageVersion: 1.2
+  assetPath: Assets/Fallencake/FC Object Pooler/Demo/Animations/Runner Demo/Player
+    Jump 2.anim
+  uploadId: 552719

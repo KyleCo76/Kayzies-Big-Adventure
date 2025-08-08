@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0b805b251d02e7a4eba634d00cecb747
+timeCreated: 1509703719
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Particles/Materials/fog_mat_02.mat
+  uploadId: 229450

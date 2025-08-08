@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d930090c0cd643c7b55f19a38538c162
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198697
+  packageName: 2D Castle Pack - tiles and props + Level Design Tools
+  packageVersion: 1.2
+  assetPath: Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+  uploadId: 552719

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Ground
+  - Climbable
+  - Collectables
+  - Chest
+  - DialogBox
+  - KayzieImageBox
+  - Platforms
+  - Okto
+  - DialogImage
+  - PlayerHealthBar
+  - PlayerHealthText
+  - OktoHealthBar
+  - OktoHealthText
+  - StaminaBar
+  - StaminaText
+  - DialogButtons
+  - CameraParent
+  - MovingPlatforms
+  - HealthBarParent
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BG_Layer1
+  - BG_Layer2
+  - BG_Layer3
+  - BG_Layer4
+  - BG_Layer5
+  - BG_Objects1
+  - BG_Objects2
+  - BG_Objects3
+  - FG_Objects1
+  - FG_Objects2
+  - FG_Objects3
+  - GroundLayer
+  - EntryWays
+  - Platforms
+  - Enemies
+  - EnemiesDead
+  - 
+  - Okto
+  - Player
+  - NPCs
+  - Collectables
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 298039413
+    locked: 0
+  - name: BgObjects
+    uniqueID: 3826064083
+    locked: 0
+  - name: Middleground
+    uniqueID: 179643667
+    locked: 0
+  - name: MiddleGround2
+    uniqueID: 2884161503
+    locked: 0
+  - name: Foreground
+    uniqueID: 1517897491
+    locked: 0
+  - name: ForgroundObjects
+    uniqueID: 1248115445
+    locked: 0
+  - name: NPCbg
+    uniqueID: 1092133337
+    locked: 0
+  - name: BGObjects
+    uniqueID: 1018780143
+    locked: 0
+  - name: Okto
+    uniqueID: 2225926899
+    locked: 0
+  - name: Player
+    uniqueID: 541705429
+    locked: 0
+  - name: BlockPlayer
+    uniqueID: 1111701327
+    locked: 0
+  - name: GroundLayer
+    uniqueID: 515612125
+    locked: 0
+  - name: PreGroundObjects
+    uniqueID: 3203983573
+    locked: 0
+  m_RenderingLayers:
+  - Default

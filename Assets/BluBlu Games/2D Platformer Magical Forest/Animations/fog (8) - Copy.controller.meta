@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ac8fd1fbf4ae7484b815581747d7e5ec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312211
+  packageName: 2D Platformer Magical Forest
+  packageVersion: 1.0
+  assetPath: Assets/BluBlu Games/2D Platformer Magical Forest/Animations/fog (8)
+    - Copy.controller
+  uploadId: 746216

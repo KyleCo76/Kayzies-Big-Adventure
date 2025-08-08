@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f7ada0af4f174f0694ca6a487b8f543d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198697
+  packageName: 2D Castle Pack - tiles and props + Level Design Tools
+  packageVersion: 1.2
+  assetPath: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+  uploadId: 552719

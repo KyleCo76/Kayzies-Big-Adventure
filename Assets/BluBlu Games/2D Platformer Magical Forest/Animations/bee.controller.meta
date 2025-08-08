@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb972c1f343ca1f4389274497d22b83a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312211
+  packageName: 2D Platformer Magical Forest
+  packageVersion: 1.0
+  assetPath: Assets/BluBlu Games/2D Platformer Magical Forest/Animations/bee.controller
+  uploadId: 746216

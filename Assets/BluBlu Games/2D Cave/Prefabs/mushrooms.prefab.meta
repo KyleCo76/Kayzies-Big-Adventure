@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cdba13ca7c5e4944382c47fc00ed80d8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278605
+  packageName: 2D Platformer Cave
+  packageVersion: 1.0
+  assetPath: Assets/BluBlu Games/2D Cave/Prefabs/mushrooms.prefab
+  uploadId: 665836

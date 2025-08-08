@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6dbb8e1065458ec41a4ad6eac0874df0
+timeCreated: 1501367212
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Particles/Materials/watersurface.mat
+  uploadId: 229450

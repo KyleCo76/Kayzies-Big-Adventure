@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ef007bceb360644bb70f06c30c85ec5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312211
+  packageName: 2D Platformer Magical Forest
+  packageVersion: 1.0
+  assetPath: Assets/BluBlu Games/2D Platformer Magical Forest/Animations/clouds.controller
+  uploadId: 746216

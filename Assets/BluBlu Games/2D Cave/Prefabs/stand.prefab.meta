@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5543c73b39560824883097075459378e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278605
+  packageName: 2D Platformer Cave
+  packageVersion: 1.0
+  assetPath: Assets/BluBlu Games/2D Cave/Prefabs/stand.prefab
+  uploadId: 665836

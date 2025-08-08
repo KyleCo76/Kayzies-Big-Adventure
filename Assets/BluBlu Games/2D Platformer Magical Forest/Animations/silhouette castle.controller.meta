@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0df082ab22751fa46b384abb849750cb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312211
+  packageName: 2D Platformer Magical Forest
+  packageVersion: 1.0
+  assetPath: Assets/BluBlu Games/2D Platformer Magical Forest/Animations/silhouette
+    castle.controller
+  uploadId: 746216

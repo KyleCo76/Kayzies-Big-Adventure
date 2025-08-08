@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21c89bbbe12e9f641b99fdeed17f1c2d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 36300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198697
+  packageName: 2D Castle Pack - tiles and props + Level Design Tools
+  packageVersion: 1.2
+  assetPath: Assets/Fallencake/2DCP/Demo/Scenes/Demo Scene 01/OcclusionCullingData.asset
+  uploadId: 552719

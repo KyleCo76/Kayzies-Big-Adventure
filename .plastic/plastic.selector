@@ -1,0 +1,3 @@
+repository "Cloud Repositories/Kayzies Big Adventure@20067242563958@cloud"
+  path "/"
+    smartbranch "/main/Kyle_Branch/Events"

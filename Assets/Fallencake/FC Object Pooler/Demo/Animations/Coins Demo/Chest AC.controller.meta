@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: efeb2f1304b549d4990581def54f81b3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198697
+  packageName: 2D Castle Pack - tiles and props + Level Design Tools
+  packageVersion: 1.2
+  assetPath: Assets/Fallencake/FC Object Pooler/Demo/Animations/Coins Demo/Chest
+    AC.controller
+  uploadId: 552719

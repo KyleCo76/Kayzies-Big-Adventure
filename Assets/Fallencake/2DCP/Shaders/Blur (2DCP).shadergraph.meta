@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8e021d2e9a666194bb3abaa60eb9de01
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198697
+  packageName: 2D Castle Pack - tiles and props + Level Design Tools
+  packageVersion: 1.2
+  assetPath: Assets/Fallencake/2DCP/Shaders/Blur (2DCP).shadergraph
+  uploadId: 552719

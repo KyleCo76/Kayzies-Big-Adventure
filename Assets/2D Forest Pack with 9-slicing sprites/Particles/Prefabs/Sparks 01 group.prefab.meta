@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2befd00c065bdf8438a56b4f57665411
+timeCreated: 1505333193
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Particles/Prefabs/Sparks
+    01 group.prefab
+  uploadId: 229450
