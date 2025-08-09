@@ -62,13 +62,18 @@ public class SaveGameManagerV1 : MonoBehaviour
             InventoryItems = "[]",
             IsInvicible = false
         };
-        SaveObjectData(initialRow);
 
         string fileName = saveName + ".db";
         dbPath = Path.Combine(Application.persistentDataPath, fileName);
-        if (File.Exists(dbPath)) {
+        if (File.Exists(dbPath))
             File.Delete(dbPath);
+
+        using (var db = new SQLiteConnection(dbPath))
+        {
+            db.CreateTable<SaveGameData>();
+            db.Insert(initialRow);
         }
+
         OnSaveGame?.Invoke(saveName);
         StartCoroutine(WaitWhileSaveLoad());
     }
@@ -85,9 +90,8 @@ public class SaveGameManagerV1 : MonoBehaviour
                     File.Delete(file);
                 }
                 filesToDelete--;
-                if (filesToDelete <= 0) {
+                if (filesToDelete <= 0)
                     break; // Stop deleting after reaching the limit
-                }
             }
         }
     }
@@ -204,6 +208,14 @@ public class SaveGameManagerV1 : MonoBehaviour
 
         // Resume the game after loading
         Time.timeScale = 1f;
+        // Find the PauseMenu GameObject by name and tag
+        GameObject pauseMenuObject = Resources.FindObjectsOfTypeAll<GameObject>()
+            .FirstOrDefault(go =>
+                go.name == "PauseMenu" &&
+                go.scene.IsValid());
+        if (pauseMenuObject != null) {
+            pauseMenuObject.SetActive(false);
+        }
         Debug.Log("Game resumed after loading.");
 
         Managers.Instance.GameManager.IsLoadingData = false;

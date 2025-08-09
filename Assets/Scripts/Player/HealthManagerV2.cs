@@ -17,6 +17,10 @@ namespace Kayzie.Player
             currentHealth = maxHealth;
             GameObject healthParent = GameObject.FindGameObjectWithTag("HealthBarParent");
             healthBar = healthParent.GetComponentInChildren<Image>();
+            if (healthBar == null) // Check if the health bar is not found
+            {
+                Debug.LogWarning("Health bar Image component is not assigned or found in the HealthBarParent.");
+            }
             healthBarText = healthParent.GetComponentInChildren<TextMeshProUGUI>();
             iFrameTimer = iFrameDuration; // Set the invincibility timer to the initial duration
             healthRegenCooldownTimer = healthRegenCooldown; // Initialize the cooldown timer for health regeneration

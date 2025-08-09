@@ -13,6 +13,7 @@ public class TempMaxHealthData
 
 public class HealthFunctions : MonoBehaviour
 {
+    [SerializeField]
     protected float currentHealth;
     public float GetCurrentHealth => currentHealth; // Public property to access current health
     [FoldoutGroup("Health Settings"), SerializeField, Tooltip("Maximum health the player starts with")]
